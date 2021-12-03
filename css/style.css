@@ -2,13 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Times;
 }
 
 /* intestazione */
 
-.container{
+body{
     margin: auto;
     width: 50%;
+}
+.container{
     height: 100px;
     background-color: #44A0FF;
     background-image: url("../img/pattern.png");
@@ -21,4 +24,32 @@
     position: absolute;
     left: 0;
     bottom: 0;
+}
+
+/* titolo e foto tim */
+
+.title{
+    margin-top: 10px;
+    padding: 5px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.title h5,h6{
+    color: gray;
+} 
+
+h5>span{
+    color: #44A0FF;
+}
+
+#tim1{
+    width: 50%;
+    height: 360px;
+}
+
+#photodesc{
+    font-size: 11px;
 }
