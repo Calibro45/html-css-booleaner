@@ -68,3 +68,28 @@ h5>span{
     margin: 10px 10px 10px 10px;
     padding: 5px;
 }
+
+/* tabella */
+
+table{
+    margin: 10px 5px 20px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th{
+    color: white;
+    background-color: #44A0FF;
+    text-align: left;
+    width: 20%;
+}
+
+.bluerow{
+    background-color: #B1E5F2;
+}
+
+#cellatesto{
+    width: 60%;
+}
+
+
