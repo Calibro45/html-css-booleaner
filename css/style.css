@@ -53,3 +53,18 @@ h5>span{
 #photodesc{
     font-size: 11px;
 }
+
+/* parte centrale testo */
+
+.maintext{
+    text-align: justify;
+}
+
+.maintext span{
+    background-color: yellow;
+}
+
+#list{
+    margin: 10px 10px 10px 10px;
+    padding: 5px;
+}
