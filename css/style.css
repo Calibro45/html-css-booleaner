@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* intestazione */
+
+.container{
+    margin: auto;
+    width: 50%;
+    height: 100px;
+    background-color: #44A0FF;
+    background-image: url("../img/pattern.png");
+    background-size: 40%;
+    position: relative;
+}
+
+#lgboolean{
+    width: 20%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
